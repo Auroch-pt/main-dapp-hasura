@@ -1,1 +1,1 @@
-- "!include public_users.yaml"
+- "!include auth_users.yaml"
